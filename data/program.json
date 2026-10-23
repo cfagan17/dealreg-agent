@@ -1,0 +1,24 @@
+{
+  "vendor": "Helix Cloud (fictional)",
+  "as_of_date": "2026-10-23",
+  "products": [
+    "Helix Vault",
+    "Helix Mesh",
+    "Helix Platform"
+  ],
+  "eligible_tiers": [
+    "Select",
+    "Premier"
+  ],
+  "protection_days": {
+    "Select": 90,
+    "Premier": 120
+  },
+  "minimum_acv": 10000,
+  "large_deal_acv": 500000,
+  "fx_rates_to_usd": {
+    "USD": 1.0,
+    "EUR": 1.08,
+    "GBP": 1.27
+  }
+}

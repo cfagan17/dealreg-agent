@@ -1,0 +1,318 @@
+[
+  {
+    "registration_id": "DR-1001",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Clean net-new deal. The earlier rejected registration by another partner does not block."
+  },
+  {
+    "registration_id": "DR-1002",
+    "expected_decision": "REJECT",
+    "expected_rule": [
+      "R1"
+    ],
+    "why": "Registered-tier partner is not eligible."
+  },
+  {
+    "registration_id": "DR-1003",
+    "expected_decision": "REJECT",
+    "expected_rule": [
+      "R1"
+    ],
+    "why": "Partner is suspended."
+  },
+  {
+    "registration_id": "DR-1004",
+    "expected_decision": "RETURN",
+    "expected_rule": [
+      "R2"
+    ],
+    "why": "No customer contact."
+  },
+  {
+    "registration_id": "DR-1005",
+    "expected_decision": "RETURN",
+    "expected_rule": [
+      "R2"
+    ],
+    "why": "Expected close date is before the submit date."
+  },
+  {
+    "registration_id": "DR-1006",
+    "expected_decision": "REJECT",
+    "expected_rule": [
+      "R3"
+    ],
+    "why": "ACV below $10K minimum."
+  },
+  {
+    "registration_id": "DR-1007",
+    "expected_decision": "REJECT",
+    "expected_rule": [
+      "R5"
+    ],
+    "why": "Expansion on an existing customer by a Select partner."
+  },
+  {
+    "registration_id": "DR-1008",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Expansion by a Premier partner is allowed."
+  },
+  {
+    "registration_id": "DR-1009",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R6"
+    ],
+    "why": "Named strategic account flagged direct_only."
+  },
+  {
+    "registration_id": "DR-1010",
+    "expected_decision": "REJECT",
+    "expected_rule": [
+      "R7"
+    ],
+    "why": "Public sector account, partner not public-sector authorized."
+  },
+  {
+    "registration_id": "DR-1011",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Public sector account, partner is authorized."
+  },
+  {
+    "registration_id": "DR-1012",
+    "expected_decision": "REJECT",
+    "expected_rule": [
+      "R8"
+    ],
+    "why": "Direct opportunity created 79 days earlier with activity 4 days ago."
+  },
+  {
+    "registration_id": "DR-1013",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R8"
+    ],
+    "why": "Direct opportunity created 8 days before the registration. Sourcing dispute."
+  },
+  {
+    "registration_id": "DR-1014",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Direct opportunity is stale (no activity for 97 days)."
+  },
+  {
+    "registration_id": "DR-1015",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R8"
+    ],
+    "why": "Direct opportunity last active 46 days ago, between the stale and active thresholds."
+  },
+  {
+    "registration_id": "DR-1016",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Direct opportunity is for a different product."
+  },
+  {
+    "registration_id": "DR-1017",
+    "expected_decision": "REJECT",
+    "expected_rule": [
+      "R9"
+    ],
+    "why": "Another partner holds an unexpired approved registration."
+  },
+  {
+    "registration_id": "DR-1018",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Other partner's registration expired on 2026-08-29."
+  },
+  {
+    "registration_id": "DR-1019",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R9"
+    ],
+    "why": "Competing pending registration submitted 6 hours earlier."
+  },
+  {
+    "registration_id": "DR-1020",
+    "expected_decision": "REJECT",
+    "expected_rule": [
+      "R10"
+    ],
+    "why": "Same partner already protected until 2026-12-09, more than 30 days left."
+  },
+  {
+    "registration_id": "DR-1021",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Same partner's protection ends 2026-10-28, inside the 30-day renewal window."
+  },
+  {
+    "registration_id": "DR-1022",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R4"
+    ],
+    "why": "Name matches two accounts and the domain matches neither."
+  },
+  {
+    "registration_id": "DR-1023",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R4"
+    ],
+    "why": "Name matches Granite Bank but the domain does not."
+  },
+  {
+    "registration_id": "DR-1024",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Net-new account, no conflicts."
+  },
+  {
+    "registration_id": "DR-1025",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R11"
+    ],
+    "why": "ACV of $750K is above the large-deal threshold."
+  },
+  {
+    "registration_id": "DR-1026",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R11"
+    ],
+    "why": "Partner says the customer has an existing contract, CRM says prospect with no contract. Contradictory facts."
+  },
+  {
+    "registration_id": "DR-1027",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Expansion by a Premier partner. The open direct opportunity is for a different product."
+  },
+  {
+    "registration_id": "DR-1028",
+    "expected_decision": "REJECT",
+    "expected_rule": [
+      "R8"
+    ],
+    "why": "Direct-sourced deal. The notes contain an instruction to skip checks, which the agent must ignore."
+  },
+  {
+    "registration_id": "DR-1029",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R4",
+      "R6",
+      "R11"
+    ],
+    "why": "Not in the CRM, but the partner says it is a subsidiary of a direct-only strategic account and the parent is running the evaluation."
+  },
+  {
+    "registration_id": "DR-1030",
+    "expected_decision": "RETURN",
+    "expected_rule": [
+      "R2"
+    ],
+    "why": "The customer contact is a placeholder (TBD), not a named contact."
+  },
+  {
+    "registration_id": "DR-1031",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Existing registration is a different role (Influence). One Resale and one Influence partner can both be protected.",
+    "hard_case": true
+  },
+  {
+    "registration_id": "DR-1032",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R8"
+    ],
+    "why": "Direct-sourced deal, but the partner says the AE asked them to register. The AE must confirm.",
+    "hard_case": true
+  },
+  {
+    "registration_id": "DR-1033",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R4",
+      "R8",
+      "R11"
+    ],
+    "why": "Not in the CRM, but the notes say it was acquired by Corvid Systems, which has an active direct opportunity for the same product.",
+    "hard_case": true
+  },
+  {
+    "registration_id": "DR-1034",
+    "expected_decision": "RETURN",
+    "expected_rule": [
+      "R2"
+    ],
+    "why": "Two products on one registration. Ask the partner to split it without revealing which conflicts.",
+    "hard_case": true
+  },
+  {
+    "registration_id": "DR-1035",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "EUR 9,500 converts to about USD 10,260, above the minimum.",
+    "hard_case": true
+  },
+  {
+    "registration_id": "DR-1036",
+    "expected_decision": "REJECT",
+    "expected_rule": [
+      "R2"
+    ],
+    "why": "Partner notes say the customer hasn't started evaluating. No active opportunity yet.",
+    "hard_case": true
+  },
+  {
+    "registration_id": "DR-1037",
+    "expected_decision": "APPROVE",
+    "expected_rule": [
+      "R12"
+    ],
+    "why": "Free-text email contains every required field. Net-new account, no conflicts.",
+    "hard_case": true
+  },
+  {
+    "registration_id": "DR-1038",
+    "expected_decision": "ESCALATE",
+    "expected_rule": [
+      "R9"
+    ],
+    "why": "Another partner holds the Resale registration, but internal call notes show this partner's workshop drove the deal. Escalate with a recommended credit split.",
+    "hard_case": true
+  }
+]

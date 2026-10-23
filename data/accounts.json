@@ -1,0 +1,232 @@
+[
+  {
+    "account_id": "A001",
+    "name": "Acme Freight Co",
+    "domain": "acmefreight.com",
+    "segment": "Commercial",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Jordan Blake"
+  },
+  {
+    "account_id": "A002",
+    "name": "Bluefin Health",
+    "domain": "bluefinhealth.com",
+    "segment": "Enterprise",
+    "customer_status": "Customer",
+    "active_contract": true,
+    "direct_only": false,
+    "account_owner_ae": "Sam Ortiz"
+  },
+  {
+    "account_id": "A003",
+    "name": "Cascade Retail Group",
+    "domain": "cascaderetail.com",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Sam Ortiz"
+  },
+  {
+    "account_id": "A004",
+    "name": "Delta Mutual Insurance",
+    "domain": "deltamutual.com",
+    "segment": "Strategic",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": true,
+    "account_owner_ae": "Avery Chen"
+  },
+  {
+    "account_id": "A005",
+    "name": "State of Arcadia Department of Revenue",
+    "domain": "revenue.arcadia.gov",
+    "segment": "Public Sector",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Riley Park"
+  },
+  {
+    "account_id": "A006",
+    "name": "Evergreen Logistics",
+    "domain": "evergreenlogistics.com",
+    "segment": "Commercial",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Jordan Blake"
+  },
+  {
+    "account_id": "A007",
+    "name": "Fjord Analytics",
+    "domain": "fjordanalytics.io",
+    "segment": "Commercial",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Jordan Blake"
+  },
+  {
+    "account_id": "A008",
+    "name": "Granite Bank",
+    "domain": "granitebank.com",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Avery Chen"
+  },
+  {
+    "account_id": "A009",
+    "name": "Harbor Media",
+    "domain": "harbormedia.com",
+    "segment": "Commercial",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Jordan Blake"
+  },
+  {
+    "account_id": "A010",
+    "name": "Ironwood Manufacturing",
+    "domain": "ironwoodmfg.com",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Sam Ortiz"
+  },
+  {
+    "account_id": "A011",
+    "name": "Juniper Biotech",
+    "domain": "juniperbio.com",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Avery Chen"
+  },
+  {
+    "account_id": "A012",
+    "name": "Keystone Energy",
+    "domain": "keystoneenergy.com",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Sam Ortiz"
+  },
+  {
+    "account_id": "A013",
+    "name": "Lakeside School District",
+    "domain": "lakesideschools.org",
+    "segment": "Public Sector",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Riley Park"
+  },
+  {
+    "account_id": "A015",
+    "name": "Summit Health Systems",
+    "domain": "summithealth.org",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Avery Chen"
+  },
+  {
+    "account_id": "A016",
+    "name": "Summit Health Partners",
+    "domain": "summithp.com",
+    "segment": "Commercial",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Jordan Blake"
+  },
+  {
+    "account_id": "A017",
+    "name": "Orion Travel",
+    "domain": "oriontravel.com",
+    "segment": "Commercial",
+    "customer_status": "Customer",
+    "active_contract": true,
+    "direct_only": false,
+    "account_owner_ae": "Jordan Blake"
+  },
+  {
+    "account_id": "A018",
+    "name": "Pinecrest Foods",
+    "domain": "pinecrestfoods.com",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Sam Ortiz"
+  },
+  {
+    "account_id": "A019",
+    "name": "Quarry Labs",
+    "domain": "quarrylabs.com",
+    "segment": "Commercial",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Jordan Blake"
+  },
+  {
+    "account_id": "A020",
+    "name": "Tamarack Insurance",
+    "domain": "tamarackins.com",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Avery Chen"
+  },
+  {
+    "account_id": "A021",
+    "name": "Lattice Health",
+    "domain": "latticehealth.com",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Avery Chen"
+  },
+  {
+    "account_id": "A022",
+    "name": "Corvid Systems",
+    "domain": "corvidsystems.com",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Sam Ortiz"
+  },
+  {
+    "account_id": "A024",
+    "name": "Silverline Logistics",
+    "domain": "silverlinelogistics.com",
+    "segment": "Enterprise",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Jordan Blake"
+  },
+  {
+    "account_id": "A025",
+    "name": "Bramble Hotels",
+    "domain": "bramblehotels.com",
+    "segment": "Commercial",
+    "customer_status": "Prospect",
+    "active_contract": false,
+    "direct_only": false,
+    "account_owner_ae": "Jordan Blake"
+  }
+]

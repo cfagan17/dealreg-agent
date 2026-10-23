@@ -1,0 +1,58 @@
+[
+  {
+    "partner_id": "P01",
+    "name": "Brightpath Consulting",
+    "tier": "Premier",
+    "status": "Active",
+    "public_sector_authorized": true,
+    "partner_manager": "Dana Ruiz"
+  },
+  {
+    "partner_id": "P02",
+    "name": "Copperline Systems",
+    "tier": "Select",
+    "status": "Active",
+    "public_sector_authorized": false,
+    "partner_manager": "Dana Ruiz"
+  },
+  {
+    "partner_id": "P03",
+    "name": "Meridian Cloud Partners",
+    "tier": "Select",
+    "status": "Active",
+    "public_sector_authorized": true,
+    "partner_manager": "Marcus Lee"
+  },
+  {
+    "partner_id": "P04",
+    "name": "Tidewater IT",
+    "tier": "Registered",
+    "status": "Active",
+    "public_sector_authorized": false,
+    "partner_manager": "Marcus Lee"
+  },
+  {
+    "partner_id": "P05",
+    "name": "Northgate Solutions",
+    "tier": "Premier",
+    "status": "Suspended",
+    "public_sector_authorized": false,
+    "partner_manager": "Dana Ruiz"
+  },
+  {
+    "partner_id": "P06",
+    "name": "Lumen Data Group",
+    "tier": "Premier",
+    "status": "Active",
+    "public_sector_authorized": false,
+    "partner_manager": "Priya Shah"
+  },
+  {
+    "partner_id": "P07",
+    "name": "Ridgeway Integrators",
+    "tier": "Select",
+    "status": "Active",
+    "public_sector_authorized": false,
+    "partner_manager": "Priya Shah"
+  }
+]

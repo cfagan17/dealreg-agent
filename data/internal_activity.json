@@ -1,0 +1,34 @@
+[
+  {
+    "account_id": "A024",
+    "date": "2026-10-02",
+    "author": "Priya Shah",
+    "author_role": "Partner Manager",
+    "source": "Call notes",
+    "note": "Joint call with Silverline's CTO. Meridian Cloud Partners ran a two-day architecture workshop with Silverline's platform team last week, and the CTO said that workshop is the reason they are moving forward with Helix Mesh. Lumen Data Group is handling procurement and will transact."
+  },
+  {
+    "account_id": "A024",
+    "date": "2026-09-19",
+    "author": "Jordan Blake",
+    "author_role": "Account Executive",
+    "source": "Opportunity notes",
+    "note": "Silverline wants to buy through Lumen, their existing reseller. Lumen registered the deal."
+  },
+  {
+    "account_id": "A025",
+    "date": "2026-10-16",
+    "author": "Jordan Blake",
+    "author_role": "Account Executive",
+    "source": "Call notes",
+    "note": "Discovery follow-up with Bramble's IT director. Security review scheduled for November. Customer asked about pricing for 3 properties."
+  },
+  {
+    "account_id": "A022",
+    "date": "2026-10-14",
+    "author": "Sam Ortiz",
+    "author_role": "Account Executive",
+    "source": "Call notes",
+    "note": "Corvid wants to standardize Helix Platform across the business, including the Northpoint Labs team they acquired in August."
+  }
+]

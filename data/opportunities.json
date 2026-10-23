@@ -1,0 +1,90 @@
+[
+  {
+    "opportunity_id": "OPP-301",
+    "account_id": "A003",
+    "product": "Helix Vault",
+    "source": "Direct",
+    "created_date": "2026-08-01",
+    "last_activity_date": "2026-10-15",
+    "stage": "Discovery",
+    "owner_ae": "Sam Ortiz",
+    "status": "Open"
+  },
+  {
+    "opportunity_id": "OPP-302",
+    "account_id": "A006",
+    "product": "Helix Mesh",
+    "source": "Direct",
+    "created_date": "2026-10-10",
+    "last_activity_date": "2026-10-20",
+    "stage": "Qualification",
+    "owner_ae": "Jordan Blake",
+    "status": "Open"
+  },
+  {
+    "opportunity_id": "OPP-303",
+    "account_id": "A008",
+    "product": "Helix Vault",
+    "source": "Direct",
+    "created_date": "2026-05-01",
+    "last_activity_date": "2026-07-15",
+    "stage": "Discovery",
+    "owner_ae": "Avery Chen",
+    "status": "Open"
+  },
+  {
+    "opportunity_id": "OPP-304",
+    "account_id": "A009",
+    "product": "Helix Vault",
+    "source": "Direct",
+    "created_date": "2026-07-01",
+    "last_activity_date": "2026-09-05",
+    "stage": "Qualification",
+    "owner_ae": "Jordan Blake",
+    "status": "Open"
+  },
+  {
+    "opportunity_id": "OPP-305",
+    "account_id": "A010",
+    "product": "Helix Platform",
+    "source": "Direct",
+    "created_date": "2026-07-01",
+    "last_activity_date": "2026-10-18",
+    "stage": "Proposal",
+    "owner_ae": "Sam Ortiz",
+    "status": "Open"
+  },
+  {
+    "opportunity_id": "OPP-306",
+    "account_id": "A002",
+    "product": "Helix Mesh",
+    "source": "Direct",
+    "created_date": "2026-09-15",
+    "last_activity_date": "2026-10-19",
+    "stage": "Discovery",
+    "owner_ae": "Sam Ortiz",
+    "status": "Open"
+  },
+  {
+    "opportunity_id": "OPP-307",
+    "account_id": "A022",
+    "product": "Helix Platform",
+    "source": "Direct",
+    "created_date": "2026-08-15",
+    "last_activity_date": "2026-10-14",
+    "stage": "Proposal",
+    "owner_ae": "Sam Ortiz",
+    "status": "Open"
+  },
+  {
+    "opportunity_id": "OPP-308",
+    "account_id": "A025",
+    "product": "Helix Vault",
+    "source": "Direct",
+    "created_date": "2026-08-20",
+    "last_activity_date": "2026-10-16",
+    "stage": "Qualification",
+    "owner_ae": "Jordan Blake",
+    "status": "Open"
+  }
+]
