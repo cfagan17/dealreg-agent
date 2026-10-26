@@ -1,0 +1,458 @@
+[
+  {
+    "partner_id": "SI-01",
+    "name": "Northbeam Consulting",
+    "tier": "Preferred",
+    "partner_since": "2026-03",
+    "regions_active": [
+      "North America",
+      "EMEA"
+    ],
+    "ai_practice_headcount_est": 2400,
+    "ai_engagements_last_2q_est": 140,
+    "claude_engagements_last_2q": 63,
+    "claude_engagements_prior_2q": 34,
+    "certified_by_quarter": [
+      60,
+      92,
+      140,
+      210
+    ],
+    "production_deployments_12m": 41,
+    "production_deployments_last_2q": 19,
+    "open_pilots": 12,
+    "pilots_stalled_90d": 1,
+    "public_stories": 6,
+    "deal_registrations_by_quarter": [
+      9,
+      14,
+      22,
+      31
+    ],
+    "deal_registration_win_rate_12m": 0.48,
+    "usage_index_partner_led_customers_by_quarter": [
+      100,
+      150,
+      240,
+      390
+    ],
+    "applied_ai_support_hours_by_quarter": [
+      120,
+      110,
+      95,
+      80
+    ],
+    "competitor_mentions_in_notes_90d": 1,
+    "partner_manager": "Dana Ruiz"
+  },
+  {
+    "partner_id": "SI-02",
+    "name": "Halvorsen & Pike",
+    "tier": "Global Premier",
+    "partner_since": "2026-03",
+    "regions_active": [
+      "North America",
+      "EMEA",
+      "APAC"
+    ],
+    "ai_practice_headcount_est": 45000,
+    "ai_engagements_last_2q_est": 1900,
+    "claude_engagements_last_2q": 140,
+    "claude_engagements_prior_2q": 190,
+    "certified_by_quarter": [
+      1300,
+      1360,
+      1380,
+      1385
+    ],
+    "production_deployments_12m": 160,
+    "production_deployments_last_2q": 18,
+    "open_pilots": 30,
+    "pilots_stalled_90d": 14,
+    "public_stories": 17,
+    "deal_registrations_by_quarter": [
+      40,
+      36,
+      28,
+      19
+    ],
+    "deal_registration_win_rate_12m": 0.41,
+    "usage_index_partner_led_customers_by_quarter": [
+      100,
+      104,
+      98,
+      91
+    ],
+    "applied_ai_support_hours_by_quarter": [
+      400,
+      420,
+      460,
+      510
+    ],
+    "competitor_mentions_in_notes_90d": 9,
+    "partner_manager": "Marcus Lee"
+  },
+  {
+    "partner_id": "SI-03",
+    "name": "Meridian Cloud Partners",
+    "tier": "Select",
+    "partner_since": "2026-04",
+    "regions_active": [
+      "North America"
+    ],
+    "ai_practice_headcount_est": 180,
+    "ai_engagements_last_2q_est": 46,
+    "claude_engagements_last_2q": 30,
+    "claude_engagements_prior_2q": 12,
+    "certified_by_quarter": [
+      8,
+      11,
+      19,
+      34
+    ],
+    "production_deployments_12m": 9,
+    "production_deployments_last_2q": 6,
+    "open_pilots": 7,
+    "pilots_stalled_90d": 0,
+    "public_stories": 1,
+    "deal_registrations_by_quarter": [
+      2,
+      3,
+      6,
+      11
+    ],
+    "deal_registration_win_rate_12m": 0.55,
+    "usage_index_partner_led_customers_by_quarter": [
+      100,
+      180,
+      310,
+      520
+    ],
+    "applied_ai_support_hours_by_quarter": [
+      40,
+      35,
+      30,
+      22
+    ],
+    "competitor_mentions_in_notes_90d": 0,
+    "partner_manager": "Marcus Lee"
+  },
+  {
+    "partner_id": "SI-04",
+    "name": "Quarry Digital",
+    "tier": "Select",
+    "partner_since": "2026-03",
+    "regions_active": [
+      "North America"
+    ],
+    "ai_practice_headcount_est": 900,
+    "ai_engagements_last_2q_est": 120,
+    "claude_engagements_last_2q": 38,
+    "claude_engagements_prior_2q": 35,
+    "certified_by_quarter": [
+      22,
+      30,
+      31,
+      31
+    ],
+    "production_deployments_12m": 3,
+    "production_deployments_last_2q": 1,
+    "open_pilots": 15,
+    "pilots_stalled_90d": 9,
+    "public_stories": 1,
+    "deal_registrations_by_quarter": [
+      6,
+      7,
+      7,
+      6
+    ],
+    "deal_registration_win_rate_12m": 0.2,
+    "usage_index_partner_led_customers_by_quarter": [
+      100,
+      108,
+      104,
+      101
+    ],
+    "applied_ai_support_hours_by_quarter": [
+      60,
+      95,
+      140,
+      180
+    ],
+    "competitor_mentions_in_notes_90d": 2,
+    "partner_manager": "Priya Shah"
+  },
+  {
+    "partner_id": "SI-05",
+    "name": "Brightwater Analytics",
+    "tier": "Registered",
+    "partner_since": "2026-05",
+    "regions_active": [
+      "EMEA"
+    ],
+    "ai_practice_headcount_est": 60,
+    "ai_engagements_last_2q_est": 22,
+    "claude_engagements_last_2q": 19,
+    "claude_engagements_prior_2q": 14,
+    "certified_by_quarter": [
+      3,
+      5,
+      7,
+      9
+    ],
+    "production_deployments_12m": 2,
+    "production_deployments_last_2q": 2,
+    "open_pilots": 4,
+    "pilots_stalled_90d": 0,
+    "public_stories": 0,
+    "deal_registrations_by_quarter": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "deal_registration_win_rate_12m": 0.67,
+    "usage_index_partner_led_customers_by_quarter": [
+      100,
+      140,
+      190,
+      260
+    ],
+    "applied_ai_support_hours_by_quarter": [
+      10,
+      12,
+      10,
+      8
+    ],
+    "competitor_mentions_in_notes_90d": 0,
+    "partner_manager": "Priya Shah"
+  },
+  {
+    "partner_id": "SI-06",
+    "name": "Kestrel Advisory",
+    "tier": "Select",
+    "partner_since": "2026-03",
+    "regions_active": [
+      "North America"
+    ],
+    "ai_practice_headcount_est": 1500,
+    "ai_engagements_last_2q_est": 160,
+    "claude_engagements_last_2q": 41,
+    "claude_engagements_prior_2q": 39,
+    "certified_by_quarter": [
+      40,
+      44,
+      47,
+      49
+    ],
+    "production_deployments_12m": 4,
+    "production_deployments_last_2q": 1,
+    "open_pilots": 6,
+    "pilots_stalled_90d": 2,
+    "public_stories": 1,
+    "deal_registrations_by_quarter": [
+      18,
+      25,
+      31,
+      38
+    ],
+    "deal_registration_win_rate_12m": 0.09,
+    "usage_index_partner_led_customers_by_quarter": [
+      100,
+      99,
+      103,
+      101
+    ],
+    "applied_ai_support_hours_by_quarter": [
+      30,
+      30,
+      32,
+      35
+    ],
+    "competitor_mentions_in_notes_90d": 3,
+    "partner_manager": "Dana Ruiz"
+  },
+  {
+    "partner_id": "SI-07",
+    "name": "Tidemark Systems",
+    "tier": "Preferred",
+    "partner_since": "2026-03",
+    "regions_active": [
+      "North America",
+      "APAC"
+    ],
+    "ai_practice_headcount_est": 3200,
+    "ai_engagements_last_2q_est": 210,
+    "claude_engagements_last_2q": 52,
+    "claude_engagements_prior_2q": 88,
+    "certified_by_quarter": [
+      150,
+      170,
+      175,
+      168
+    ],
+    "production_deployments_12m": 16,
+    "production_deployments_last_2q": 2,
+    "open_pilots": 5,
+    "pilots_stalled_90d": 3,
+    "public_stories": 4,
+    "deal_registrations_by_quarter": [
+      14,
+      12,
+      6,
+      2
+    ],
+    "deal_registration_win_rate_12m": 0.4,
+    "usage_index_partner_led_customers_by_quarter": [
+      100,
+      95,
+      82,
+      70
+    ],
+    "applied_ai_support_hours_by_quarter": [
+      70,
+      72,
+      68,
+      70
+    ],
+    "competitor_mentions_in_notes_90d": 4,
+    "partner_manager": "Marcus Lee"
+  },
+  {
+    "partner_id": "SI-08",
+    "name": "Sable & Co",
+    "tier": "Registered",
+    "partner_since": "2026-07",
+    "regions_active": [
+      "North America"
+    ],
+    "ai_practice_headcount_est": 400,
+    "ai_engagements_last_2q_est": 30,
+    "claude_engagements_last_2q": 9,
+    "claude_engagements_prior_2q": 0,
+    "certified_by_quarter": [
+      0,
+      0,
+      4,
+      12
+    ],
+    "production_deployments_12m": 1,
+    "production_deployments_last_2q": 1,
+    "open_pilots": 3,
+    "pilots_stalled_90d": 0,
+    "public_stories": 0,
+    "deal_registrations_by_quarter": [
+      0,
+      0,
+      1,
+      3
+    ],
+    "deal_registration_win_rate_12m": 0.5,
+    "usage_index_partner_led_customers_by_quarter": [
+      0,
+      0,
+      100,
+      170
+    ],
+    "applied_ai_support_hours_by_quarter": [
+      0,
+      0,
+      20,
+      35
+    ],
+    "competitor_mentions_in_notes_90d": 0,
+    "partner_manager": "Dana Ruiz"
+  },
+  {
+    "partner_id": "SI-09",
+    "name": "Corbel Partners",
+    "tier": "Preferred",
+    "partner_since": "2026-03",
+    "regions_active": [
+      "North America",
+      "EMEA"
+    ],
+    "ai_practice_headcount_est": 1800,
+    "ai_engagements_last_2q_est": 150,
+    "claude_engagements_last_2q": 66,
+    "claude_engagements_prior_2q": 62,
+    "certified_by_quarter": [
+      120,
+      128,
+      133,
+      137
+    ],
+    "production_deployments_12m": 24,
+    "production_deployments_last_2q": 5,
+    "open_pilots": 6,
+    "pilots_stalled_90d": 1,
+    "public_stories": 4,
+    "deal_registrations_by_quarter": [
+      10,
+      11,
+      10,
+      11
+    ],
+    "deal_registration_win_rate_12m": 0.45,
+    "usage_index_partner_led_customers_by_quarter": [
+      100,
+      112,
+      121,
+      130
+    ],
+    "applied_ai_support_hours_by_quarter": [
+      60,
+      55,
+      50,
+      48
+    ],
+    "competitor_mentions_in_notes_90d": 1,
+    "partner_manager": "Priya Shah"
+  },
+  {
+    "partner_id": "SI-10",
+    "name": "Ashgrove Group",
+    "tier": "Preferred",
+    "partner_since": "2026-03",
+    "regions_active": [
+      "EMEA",
+      "APAC"
+    ],
+    "ai_practice_headcount_est": 5200,
+    "ai_engagements_last_2q_est": 300,
+    "claude_engagements_last_2q": 44,
+    "claude_engagements_prior_2q": 40,
+    "certified_by_quarter": [
+      90,
+      150,
+      260,
+      410
+    ],
+    "production_deployments_12m": 16,
+    "production_deployments_last_2q": 2,
+    "open_pilots": 9,
+    "pilots_stalled_90d": 4,
+    "public_stories": 3,
+    "deal_registrations_by_quarter": [
+      8,
+      9,
+      9,
+      10
+    ],
+    "deal_registration_win_rate_12m": 0.33,
+    "usage_index_partner_led_customers_by_quarter": [
+      100,
+      103,
+      106,
+      104
+    ],
+    "applied_ai_support_hours_by_quarter": [
+      90,
+      110,
+      130,
+      150
+    ],
+    "competitor_mentions_in_notes_90d": 2,
+    "partner_manager": "Dana Ruiz"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "conversations": [
+    {
+      "rank": 1,
+      "partner_id": "SI-02",
+      "partner": "Halvorsen & Pike",
+      "who": "Partner manager (Marcus Lee) + our executive sponsor / partnerships VP, meeting their global AI CoE lead and the alliance exec who owns the pricing and tooling decision",
+      "why_this_week": "Our largest partner, at Global Premier, has made a competitor its default for agentic builds, and the drop already shows in the numbers (18 deployments in the last 2 quarters). Each week the competitor stays default, more agentic pursuits go to them. That pipeline decides whether they still clear 100 deployments at the review after 31 Oct.",
+      "outcome": "A written commitment from their global CoE to put Claude back on the approved default list for agentic builds. This should include a named set of joint pursuits to test it on and an agreed fix for the pricing and tooling objections. Also confirm the joint business plan is in place, since it is the one 31 Oct requirement the data doesn't show."
+    },
+    {
+      "rank": 2,
+      "partner_id": "SI-07",
+      "partner": "Tidemark Systems",
+      "who": "Partner manager (Marcus Lee) + regional sales VP",
+      "why_this_week": "Since their Head of AI Practice left in August, no one clearly owns Claude inside the merged data and analytics group. Two late-stage joint deals are stalled and could be lost soon. Preferred has a deployment margin of one, with only 2 deployments in the last 2 quarters, so losing those deals puts the tier at risk within 1 to 2 quarters.",
+      "outcome": "The name of the new executive owner for Claude, plus their commitment to staff delivery on the two stalled joint deals, with dates."
+    },
+    {
+      "rank": 3,
+      "partner_id": "SI-05",
+      "partner": "Brightwater Analytics",
+      "who": "Partner manager (Priya Shah) + the customer story approval owner in partner marketing",
+      "why_this_week": "This is the only partner whose 31 Oct result depends on what happens in the next 8 days. They need 1 more certification (9 of 10) and 1 public story (0 of 1) to reach Select. Story approval time is the real risk, so a conversation next week is too late. It is a short conversation with a clear payoff for a partner that does almost all its AI work on Claude.",
+      "outcome": "Named owners and dates for completing the 10th certification before 31 Oct and submitting the customer story for approval right away. If the story can't clear approval in time, get an explicit agreement that it will be credited at the next review."
+    },
+    {
+      "rank": 4,
+      "partner_id": "SI-01",
+      "partner": "Northbeam Consulting",
+      "who": "Partner manager (Dana Ruiz) + financial services sales lead",
+      "why_this_week": "Northbeam asked directly how to reach Global Premier. They are our fastest-moving partner (41 deployments, 210 certified) and the most credible future Global Premier. A partner's own request is the best opening we will get, and a slow answer wastes it while their Singapore expansion plans are still taking shape.",
+      "outcome": "Agreement to build a joint business plan for a Claude financial services practice, with named target banking accounts, dated milestones, and a realistic 12 to 18 month path to Global Premier. Global Premier is not achievable at the 31 Oct review."
+    },
+    {
+      "rank": 5,
+      "partner_id": "SI-10",
+      "partner": "Ashgrove Group",
+      "who": "Partner manager (Dana Ruiz) + Applied AI lead",
+      "why_this_week": "Ashgrove passes Preferred on 31 Oct with a margin of 1 deployment and 0 stories. Only 2 deployments came in the last two quarters and 4 of 9 pilots are stalled, so they could drop below Preferred at the following review. Turning pilots into deployments takes months, so the fix has to start now. We also shouldn't keep spending Applied AI support without conditions.",
+      "outcome": "A written plan for each of the 4 stalled pilots, with a named Ashgrove delivery lead and target go-live date for each. Continued Applied AI support depends on following that plan."
+    }
+  ],
+  "not_this_week": [
+    {
+      "partner_id": "SI-03",
+      "partner": "Meridian Cloud Partners",
+      "reason": "Healthy and safe at Select. The Preferred plan and second story are worth doing this month, and Marcus Lee is already carrying two rescues this week."
+    },
+    {
+      "partner_id": "SI-04",
+      "partner": "Quarry Digital",
+      "reason": "Select is safe on 31 Oct. The production-architecture plan and the rising Applied AI hours need addressing soon, so schedule it for early next week."
+    },
+    {
+      "partner_id": "SI-06",
+      "partner": "Kestrel Advisory",
+      "reason": "Deprioritized, with no human touch needed. Set MDF conditions tied to production at the next regular touchpoint."
+    },
+    {
+      "partner_id": "SI-08",
+      "partner": "Sable & Co",
+      "reason": "They can't realistically reach Select by 31 Oct and their current tier is not at risk. Build the pilot-to-production plan this month to target the next review."
+    },
+    {
+      "partner_id": "SI-09",
+      "partner": "Corbel Partners",
+      "reason": "Healthy and safely Preferred. Raise the deployment slowdown and the open pilot list at the next QBR."
+    }
+  ],
+  "summary": "The ecosystem's growth is real at Northbeam, Meridian, Brightwater and Sable, but three established partners (Halvorsen & Pike, Tidemark, Ashgrove) are drifting. All three pass on 31 Oct and are exposed at the review after, as older deployments roll off. This week's time should go mostly to stopping that slide at the top, especially winning back Halvorsen & Pike's agentic default, plus two time-sensitive openings: Brightwater's last-minute Select push and Northbeam's request for a Global Premier path. Partners with no near-term risk can wait for this month's or next QBR's conversations."
+}

@@ -1,0 +1,43 @@
+{
+  "as_of_date": "2026-10-23",
+  "quarters": [
+    "2025-Q4",
+    "2026-Q1",
+    "2026-Q2",
+    "2026-Q3"
+  ],
+  "note": "Tier thresholds modeled on the publicly announced Claude Partner Network Services Track (June 2026). Partner data is fictional.",
+  "tiers": [
+    {
+      "tier": "Registered",
+      "certified": 0,
+      "production_deployments_12m": 0,
+      "public_stories": 0,
+      "regions": 1
+    },
+    {
+      "tier": "Select",
+      "certified": 10,
+      "production_deployments_12m": 2,
+      "public_stories": 1,
+      "regions": 1
+    },
+    {
+      "tier": "Preferred",
+      "certified": 100,
+      "production_deployments_12m": 15,
+      "public_stories": 3,
+      "regions": 1
+    },
+    {
+      "tier": "Global Premier",
+      "certified": 1000,
+      "production_deployments_12m": 100,
+      "public_stories": 15,
+      "regions": 3,
+      "joint_business_plan": true
+    }
+  ],
+  "next_tier_review": "2026-10-31",
+  "partner_manager_capacity": "Each partner manager has room for about 5 meaningful partner conversations in a week."
+}

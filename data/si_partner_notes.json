@@ -1,0 +1,128 @@
+[
+  {
+    "partner_id": "SI-01",
+    "date": "2026-10-08",
+    "author_role": "Partner Manager",
+    "source": "QBR notes",
+    "note": "Northbeam wants to co-build a financial services practice on Claude and asked what it takes to reach Global Premier. They have no APAC presence yet but are opening a Singapore office in Q1."
+  },
+  {
+    "partner_id": "SI-01",
+    "date": "2026-09-22",
+    "author_role": "Account Executive",
+    "source": "Opportunity notes",
+    "note": "Northbeam brought us into two new banking deals this quarter. Their architects needed almost no help from our Applied AI team on the second one."
+  },
+  {
+    "partner_id": "SI-02",
+    "date": "2026-10-03",
+    "author_role": "Partner Manager",
+    "source": "Call notes",
+    "note": "Their AI Center of Excellence now defaults to a competing model provider for agentic builds. Claude is still used for document-heavy workflows. The CoE lead said it was a pricing and tooling decision made at the global level."
+  },
+  {
+    "partner_id": "SI-02",
+    "date": "2026-09-18",
+    "author_role": "Account Executive",
+    "source": "Opportunity notes",
+    "note": "Lost two joint pursuits this quarter where Halvorsen & Pike proposed the competitor stack to the customer. Our own team found out late."
+  },
+  {
+    "partner_id": "SI-02",
+    "date": "2026-08-27",
+    "author_role": "Partner Manager",
+    "source": "Call notes",
+    "note": "Q3 QBR postponed a second time. Delivery teams keep pulling our Applied AI engineers into pilot work they should be able to run themselves."
+  },
+  {
+    "partner_id": "SI-03",
+    "date": "2026-10-02",
+    "author_role": "Partner Manager",
+    "source": "Call notes",
+    "note": "Joint call with Silverline's CTO. Meridian ran a two-day architecture workshop that the CTO credits for moving forward. Meridian wants to package it as a repeatable logistics offering and asked how to get a second public customer story approved."
+  },
+  {
+    "partner_id": "SI-03",
+    "date": "2026-09-12",
+    "author_role": "Account Executive",
+    "source": "Opportunity notes",
+    "note": "Meridian is small but every deal they bring is real. Three of their last four registrations closed."
+  },
+  {
+    "partner_id": "SI-04",
+    "date": "2026-10-06",
+    "author_role": "Partner Manager",
+    "source": "Call notes",
+    "note": "Pilots keep stalling at the customer's security and architecture review. Quarry doesn't have anyone yet who can design for production. Their certified people are mostly developers."
+  },
+  {
+    "partner_id": "SI-04",
+    "date": "2026-09-29",
+    "author_role": "Account Executive",
+    "source": "Opportunity notes",
+    "note": "A customer in a Quarry pilot came to us directly asking for help because the Quarry team was stuck. We sent an Applied AI engineer."
+  },
+  {
+    "partner_id": "SI-05",
+    "date": "2026-10-09",
+    "author_role": "Partner Manager",
+    "source": "Call notes",
+    "note": "Small team, nearly all of their AI work is on Claude. One more certification gets them to Select. Their customer is willing to do a public story and they asked how the approval works."
+  },
+  {
+    "partner_id": "SI-06",
+    "date": "2026-10-01",
+    "author_role": "Account Executive",
+    "source": "Opportunity notes",
+    "note": "Kestrel registers almost every logo they talk to. Most never progress, and two of their registrations this quarter overlapped with our own active deals."
+  },
+  {
+    "partner_id": "SI-06",
+    "date": "2026-09-15",
+    "author_role": "Partner Manager",
+    "source": "Call notes",
+    "note": "Lots of activity and enthusiasm, little follow-through. They keep asking for more MDF."
+  },
+  {
+    "partner_id": "SI-07",
+    "date": "2026-09-30",
+    "author_role": "Partner Manager",
+    "source": "Call notes",
+    "note": "Our champion, their Head of AI Practice, left in August. No replacement named yet. The practice is being folded into their broader data and analytics group."
+  },
+  {
+    "partner_id": "SI-07",
+    "date": "2026-10-10",
+    "author_role": "Account Executive",
+    "source": "Opportunity notes",
+    "note": "Tidemark went quiet on two joint deals that were in late stages. Customer contacts say Tidemark is reassigning the delivery team."
+  },
+  {
+    "partner_id": "SI-08",
+    "date": "2026-08-20",
+    "author_role": "Partner Manager",
+    "source": "Onboarding call",
+    "note": "New partner, eager. Building a retail and consumer practice. Two architects already through certification and a dozen more in the pipeline."
+  },
+  {
+    "partner_id": "SI-09",
+    "date": "2026-10-07",
+    "author_role": "Partner Manager",
+    "source": "QBR notes",
+    "note": "Steady quarter. Joint plan is on track, no escalations, no asks beyond the usual co-marketing calendar."
+  },
+  {
+    "partner_id": "SI-10",
+    "date": "2026-10-04",
+    "author_role": "Partner Manager",
+    "source": "Call notes",
+    "note": "Ashgrove certified about 150 people in a single internal bootcamp last month. When asked, they couldn't say how many of them are staffed on Claude engagements."
+  },
+  {
+    "partner_id": "SI-10",
+    "date": "2026-09-25",
+    "author_role": "Account Executive",
+    "source": "Opportunity notes",
+    "note": "Ashgrove's marketing about the Claude partnership is ahead of their delivery. Two pilots have been open since spring."
+  }
+]
