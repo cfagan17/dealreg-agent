@@ -34,6 +34,7 @@ h1{font-size:clamp(28px,4.4vw,42px);line-height:1.12;margin:8px 0 12px;letter-sp
 .stage{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:16px;align-items:start;margin-top:22px}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius)}
 .chart{padding:14px 14px 8px}
+@media (min-width:901px) and (min-height:640px){.chart{position:sticky;top:16px}}
 .chart svg{display:block;width:100%;height:auto}
 .legend{display:flex;flex-wrap:wrap;gap:6px 14px;padding:4px 6px 8px;font-size:13px;color:var(--ink-2)}
 .legend span{display:inline-flex;align-items:center;gap:6px}
